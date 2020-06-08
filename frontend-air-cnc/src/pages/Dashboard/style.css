@@ -1,0 +1,58 @@
+ul.spot-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+  list-style: none;
+  margin-bottom: 30px;
+  width: 100%;
+}
+
+ul.spot-list li {
+  display: flex;
+  flex-direction: column;
+}
+
+ul.spot-list li header {
+  background-size: cover;
+  border-radius: 4px;
+  height: 120px;
+  width: 100%;
+}
+
+ul.spot-list strong {
+  color: #444;
+  font-size: 24px;
+  margin-top: 10px;
+}
+
+ul.spot-list span {
+  color: #999;
+  font-size: 15px;
+}
+
+ul.notifications {
+  list-style: nome;
+  margin-bottom: 15px;
+}
+
+ul.notifications li {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+ul.notifications li button {
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+  font-weight: bold;
+  margin-right: 10px;
+  margin-top: 10px
+}
+
+ul.notifications li button.accept {
+  color: #84C870;
+}
+
+ul.notifications li button.reject {
+  color: #E55E5E;
+}
