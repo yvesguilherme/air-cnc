@@ -3,13 +3,13 @@
 </h1>
 
 <h4 align="center">
-  🚀 Projeto desenvolvido durante a Semana Omnistack 9.0, evento promovido pela Rocketseat
+  🚀 Projeto desenvolvido durante a Semana OmniStack 9.0, evento promovido pela Rocketseat
 </h4>
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
